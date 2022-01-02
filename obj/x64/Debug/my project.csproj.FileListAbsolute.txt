@@ -1,0 +1,100 @@
+D:\project\my project\my project\bin\x64\Debug\my project.exe.config
+D:\project\my project\my project\bin\x64\Debug\my project.exe
+D:\project\my project\my project\bin\x64\Debug\my project.pdb
+D:\project\my project\my project\obj\x64\Debug\my_project.change_password.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.customer_master.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.purchase_return.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.login.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.purchase_detail.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.sales_return.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.stock_detail.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.supplier_master.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.welcome.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.Properties.Resources.resources
+D:\project\my project\my project\obj\x64\Debug\my project.csproj.GenerateResource.Cache
+D:\project\my project\my project\obj\x64\Debug\my project.exe
+D:\project\my project\my project\obj\x64\Debug\my project.pdb
+D:\project\my project\my project\obj\x64\Debug\my_project.about_us.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.patnjali.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.sales_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.sales_return_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.item_master_reportr.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.purchase_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.purchase_return_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.stock_detail_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.supplier_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.item_master.resources
+D:\movie\my project\my project\bin\x64\Debug\my project.exe.config
+D:\movie\my project\my project\obj\x64\Debug\my project.exe
+D:\movie\my project\my project\obj\x64\Debug\my project.pdb
+D:\movie\my project\my project\bin\x64\Debug\purchase_detail.resx
+D:\movie\my project\my project\bin\x64\Debug\purchase_detail.cs
+D:\movie\my project\my project\bin\x64\Debug\purchase_detail.Designer.cs
+D:\movie\my project\my project\bin\x64\Debug\my project.exe
+D:\movie\my project\my project\bin\x64\Debug\my project.pdb
+D:\movie\my project\my project\obj\x64\Debug\my project.csprojResolveAssemblyReference.cache
+D:\movie\my project\my project\obj\x64\Debug\my_project.about_us.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.change_password.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.cstomer_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.customer_master.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.item_master.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.item_master_reportr.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.patnjali.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.purchase_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.purchase_return_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.sales_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.purchase_return.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.login.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.purchase_detail.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.sales_details.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.sales_return_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.sales_return.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.stock_detail.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.stock_detail_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.supplier_master.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.supplier_report.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.welcome.resources
+D:\movie\my project\my project\obj\x64\Debug\my_project.Properties.Resources.resources
+D:\movie\my project\my project\obj\x64\Debug\my project.csproj.GenerateResource.Cache
+D:\project\my project\my project\obj\x64\Debug\my project.csproj.ResolveComReference.cache
+D:\project\my project\my project\obj\x64\Debug\my_project.customer_report.resources
+D:\project\my project\my project\obj\x64\Debug\my_project.sales_details.resources
+D:\project\my project\my project\obj\x64\Debug\my project.csprojResolveAssemblyReference.cache
+D:\project\my project\my project\bin\x64\Debug\Interop.WIA.dll
+D:\project\my project\my project\bin\x64\Debug\AxInterop.WIA.dll
+D:\project\my project\my project\obj\x64\Debug\Interop.WIA.dll
+D:\project\my project\my project\obj\x64\Debug\AxInterop.WIA.dll
+C:\my project\my project\bin\x64\Debug\my project.exe.config
+C:\my project\my project\obj\x64\Debug\Interop.WIA.dll
+C:\my project\my project\obj\x64\Debug\AxInterop.WIA.dll
+C:\my project\my project\obj\x64\Debug\my project.csproj.ResolveComReference.cache
+C:\my project\my project\obj\x64\Debug\my project.exe
+C:\my project\my project\obj\x64\Debug\my project.pdb
+C:\my project\my project\bin\x64\Debug\my project.exe
+C:\my project\my project\bin\x64\Debug\my project.pdb
+C:\my project\my project\bin\x64\Debug\Interop.WIA.dll
+C:\my project\my project\bin\x64\Debug\AxInterop.WIA.dll
+C:\my project\my project\obj\x64\Debug\my project.csprojResolveAssemblyReference.cache
+C:\my project\my project\obj\x64\Debug\my_project.about_us.resources
+C:\my project\my project\obj\x64\Debug\my_project.change_password.resources
+C:\my project\my project\obj\x64\Debug\my_project.customer_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.customer_master.resources
+C:\my project\my project\obj\x64\Debug\my_project.item_master.resources
+C:\my project\my project\obj\x64\Debug\my_project.item_master_reportr.resources
+C:\my project\my project\obj\x64\Debug\my_project.patnjali.resources
+C:\my project\my project\obj\x64\Debug\my_project.purchase_detail.resources
+C:\my project\my project\obj\x64\Debug\my_project.purchase_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.purchase_return_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.sales_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.purchase_return.resources
+C:\my project\my project\obj\x64\Debug\my_project.login.resources
+C:\my project\my project\obj\x64\Debug\my_project.sales_details.resources
+C:\my project\my project\obj\x64\Debug\my_project.sales_return_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.sales_return.resources
+C:\my project\my project\obj\x64\Debug\my_project.stock_detail.resources
+C:\my project\my project\obj\x64\Debug\my_project.stock_detail_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.supplier_master.resources
+C:\my project\my project\obj\x64\Debug\my_project.supplier_report.resources
+C:\my project\my project\obj\x64\Debug\my_project.welcome.resources
+C:\my project\my project\obj\x64\Debug\my_project.Properties.Resources.resources
+C:\my project\my project\obj\x64\Debug\my project.csproj.GenerateResource.Cache

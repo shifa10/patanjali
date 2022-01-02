@@ -1,0 +1,34 @@
+D:\project\my project\my project\bin\Debug\my project.exe.config
+D:\project\my project\my project\bin\Debug\my project.exe
+D:\project\my project\my project\bin\Debug\my project.pdb
+D:\project\my project\my project\obj\Debug\my project.csprojResolveAssemblyReference.cache
+D:\project\my project\my project\obj\Debug\my_project.Properties.Resources.resources
+D:\project\my project\my project\obj\Debug\my project.csproj.GenerateResource.Cache
+D:\project\my project\my project\obj\Debug\my project.exe
+D:\project\my project\my project\obj\Debug\my project.pdb
+D:\project\my project\my project\obj\Debug\my_project.login.resources
+D:\project\my project\my project\obj\Debug\my_project.welcome.resources
+D:\project\my project\my project\obj\Debug\my_project.supplier_master.resources
+D:\project\my project\my project\obj\Debug\my_project.customer_master.resources
+D:\project\my project\my project\obj\Debug\my_project.purchase_detail.resources
+D:\project\my project\my project\obj\Debug\my_project.purchase_return.resources
+D:\project\my project\my project\obj\Debug\my_project.sales_details.resources
+D:\project\my project\my project\obj\Debug\my_project.sales_return.resources
+D:\project\my project\my project\obj\Debug\my_project.stock_detail.resources
+D:\project\my project\my project\obj\Debug\my_project.change_password.resources
+D:\project\my project\my project\obj\Debug\Interop.Crystal.dll
+D:\project\my project\my project\obj\Debug\AxInterop.Crystal.dll
+D:\project\my project\my project\obj\Debug\my project.csproj.ResolveComReference.cache
+D:\project\my project\my project\bin\Debug\Interop.Crystal.dll
+D:\project\my project\my project\bin\Debug\AxInterop.Crystal.dll
+D:\project\my project\my project\obj\Debug\my_project.about_us.resources
+D:\project\my project\my project\obj\Debug\my_project.item_master.resources
+D:\project\my project\my project\obj\Debug\my_project.item_master_reportr.resources
+D:\project\my project\my project\obj\Debug\my_project.patnjali.resources
+D:\project\my project\my project\obj\Debug\my_project.purchase_report.resources
+D:\project\my project\my project\obj\Debug\my_project.purchase_return_report.resources
+D:\project\my project\my project\obj\Debug\my_project.sales_report.resources
+D:\project\my project\my project\obj\Debug\my_project.sales_return_report.resources
+D:\project\my project\my project\obj\Debug\my_project.stock_detail_report.resources
+D:\project\my project\my project\obj\Debug\my_project.supplier_report.resources
+D:\project\my project\my project\obj\Debug\my_project.customer_report.resources

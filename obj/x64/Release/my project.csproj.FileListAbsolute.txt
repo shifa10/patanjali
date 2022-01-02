@@ -1,0 +1,4 @@
+D:\project\my project\my project\bin\x64\Release\my project.exe.config
+D:\project\my project\my project\obj\x64\Release\Interop.WIA.dll
+D:\project\my project\my project\obj\x64\Release\AxInterop.WIA.dll
+D:\project\my project\my project\obj\x64\Release\my project.csproj.ResolveComReference.cache
